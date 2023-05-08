@@ -9,6 +9,6 @@ public class Viber implements Messenger{
     @Override
     public void getMessenger() {
         System.out.println("Viber get");
-        IIIIIII
+        
     }
 }
